@@ -18,6 +18,4 @@
 
 To play **Hungry Rabbit** on your Android device:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AnIntellectualBeing/HungryRabbit.git
+Download the HungryRabbit.apk
